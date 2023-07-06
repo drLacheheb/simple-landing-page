@@ -218,7 +218,7 @@ ul {
     color: #E5E7EB;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 900px) {
     .hero {
         flex-direction: column;
         height: auto;
@@ -235,7 +235,7 @@ ul {
     }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 900px) {
     .header {
         flex-direction: column;
         justify-content: center;
@@ -263,7 +263,7 @@ ul {
     }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 900px) {
     .content {
         flex-direction: column;
     }
@@ -290,7 +290,7 @@ ul {
     }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 900px) {
     .action {
         padding: 20px;
         text-align: center;
